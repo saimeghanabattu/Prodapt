@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\spring-tools-for-eclipse-4.31.0\sts-4.31.0.RELEASE\Prodapt\.metadata\.plugins\org.eclipse.jdt.core
+673083242.index
+1773393425.index
+1865797976.index
